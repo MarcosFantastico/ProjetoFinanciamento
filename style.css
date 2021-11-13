@@ -1,0 +1,11 @@
+body{
+    background-image:url('background.jpg');
+}
+p{text-align: center;
+color:white;}
+#result{
+    background-color:rgba(128, 128, 128, 0.651);
+    border-radius: 0.25rem;
+    max-width:789px;
+    margin: 0px 0px 16px;
+}
