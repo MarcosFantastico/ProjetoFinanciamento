@@ -1,11 +1,15 @@
 body{
     background-image:url('background.jpg');
 }
+input{
+    text-align:center;
+}
 p{text-align: center;
-color:white;}
+color:white;
+padding:9px 0px 0px 0px;}
 #result{
     background-color:rgba(128, 128, 128, 0.651);
     border-radius: 0.25rem;
-    max-width:789px;
-    margin: 0px 0px 16px;
+    width: 70%;
+    margin: 0px 0px 16px 0px;
 }
